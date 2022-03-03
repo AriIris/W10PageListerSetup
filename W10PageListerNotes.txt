@@ -1,0 +1,9 @@
+This program does nothing more than read into a grid
+a file containg Windows 10 page names and class id's.
+In the grid you can select a page name and I either
+'shell' it out or use 'file explorer' to show that page.
+There are about two hundred pages to display.
+
+My O/S is Windows 10 Prof 64 bit.
+I made this little program using c# in VS2019.
+Use the W10PageListerSetup.msi file to install.
